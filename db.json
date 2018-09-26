@@ -7,9 +7,21 @@
       "value": "NGN 300,000"
     },
     {
-      "image": "https://res.cloudinary.com/dwoc5fknz/image/upload/v1528410247/bitcoin-orange.svg",
-      "coinName": "Bitcoin",
-      "coinValue": "0.22007465745 BTC",
+      "image": "https://res.cloudinary.com/daga1o0uv/image/upload/v1537974827/litecoin.png",
+      "coinName": "Litecoin",
+      "coinValue": "100 LTC",
+      "value": "NGN 300,000"
+    },
+    {
+      "image": "https://res.cloudinary.com/daga1o0uv/image/upload/v1537974826/ethereum.png",
+      "coinName": "Ethereum",
+      "coinValue": "2,500 ETH",
+      "value": "NGN 300,000"
+    },
+    {
+      "image": "https://res.cloudinary.com/daga1o0uv/image/upload/v1537974826/bitcoincash.png",
+      "coinName": "Bitcoin cash",
+      "coinValue": "12,023 BCC",
       "value": "NGN 300,000"
     }
   ]
