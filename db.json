@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "image": "require('../../../assets/images/Bitmap.png')",
+      "coinName": "Bitcoin",
+      "coinValue": "0.22007465745 BTC",
+      "value": "NGN 300,000"
+    },
+    {
+      "image": "require('../../../assets/images/Bitmap.png')",
+      "coinName": "Bitcoin",
+      "coinValue": "0.22007465745 BTC",
+      "value": "NGN 300,000"
+    }
+  ]
+}
