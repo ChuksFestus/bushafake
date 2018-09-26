@@ -1,13 +1,13 @@
 {
   "items": [
     {
-      "image": "require('https://res.cloudinary.com/dwoc5fknz/image/upload/v1528410247/bitcoin-orange.svg')",
+      "image": "https://res.cloudinary.com/dwoc5fknz/image/upload/v1528410247/bitcoin-orange.svg",
       "coinName": "Bitcoin",
       "coinValue": "0.22007465745 BTC",
       "value": "NGN 300,000"
     },
     {
-      "image": "require('../../../assets/images/Bitmap.png')",
+      "image": "https://res.cloudinary.com/dwoc5fknz/image/upload/v1528410247/bitcoin-orange.svg",
       "coinName": "Bitcoin",
       "coinValue": "0.22007465745 BTC",
       "value": "NGN 300,000"
