@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "image": "require('../../../assets/images/Bitmap.png')",
+      "image": "require('https://res.cloudinary.com/dwoc5fknz/image/upload/v1528410247/bitcoin-orange.svg')",
       "coinName": "Bitcoin",
       "coinValue": "0.22007465745 BTC",
       "value": "NGN 300,000"
