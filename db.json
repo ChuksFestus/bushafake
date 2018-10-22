@@ -1,28 +1,48 @@
 {
-  "items": [
+  "merchantlocation": [
     {
-      "image": "https://res.cloudinary.com/daga1o0uv/image/upload/v1537974827/Bitmap.png",
-      "coinName": "Bitcoin",
-      "coinValue": "0.22007465745 BTC",
-      "value": "NGN 300,000"
+      "companyName": "Suregifts Generic",
+      "companyLogo": "https://joblytics.com.ng/public/uploads/employer_logos/1527497324SURE_GROUP.png",
+      "companyAddress": "All retail partners and bill partners ",
+      "location": "Nationwide",
+      "contact": "hello@suregifts.com.ng "
     },
     {
-      "image": "https://res.cloudinary.com/daga1o0uv/image/upload/v1537974827/litecoin.png",
-      "coinName": "Litecoin",
-      "coinValue": "100 LTC",
-      "value": "NGN 300,000"
+      "companyName": "Spar",
+      "companyLogo": "http://www.sparmaclean.com.au/sites/default/files/default_images/Spar%20SMKT%201.jpg",
+      "companyAddress": "Behind Nicon Town, Total Filling Station, Ikate Elegushi",
+      "location": "Lagos",
+      "contact": "feedback@sparnigeria.com",
+      "more": [
+        {
+          "companyAddress": "Mary Slessor Avenue, Calabar"
+        },
+        {
+          "companyAddress": "Mary Slessor Avenue, Calabar"
+        },
+        {
+          "companyAddress": "740, Aminu Kano Crescent, Wuse II."
+        },
+        {
+          "companyAddress": "MM2 Domestic Airport, Airport Road, Ikeja"
+        },
+        {
+          "companyAddress": "Adeola Odeku Street, Victoria Island"
+        },
+        {
+          "companyAddress": "Govt House, Former Supabod, Azikiwe Road"
+        },
+        {
+          "companyAddress": "Govt House, Former Supabod, Azikiwe Road"
+        }
+      ]
     },
     {
-      "image": "https://res.cloudinary.com/daga1o0uv/image/upload/v1537974826/ethereum.png",
-      "coinName": "Ethereum",
-      "coinValue": "2,500 ETH",
-      "value": "NGN 300,000"
-    },
-    {
-      "image": "https://res.cloudinary.com/daga1o0uv/image/upload/v1537974826/bitcoincash.png",
-      "coinName": "Bitcoin cash",
-      "coinValue": "12,023 BCC",
-      "value": "NGN 300,000"
+      "companyName": "OneandKo",
+      "companyLogo": "https://oneandko-dqskoizigalr1g11zll.netdna-ssl.com/wp-content/uploads/2018/02/one-logo-for-white-paper-324-x-125.png",
+      "companyAddress": "https://oneandko.com/ ",
+      "location": "Nationwide",
+      "contact": "hello@oneandko.com"
     }
   ]
 }
