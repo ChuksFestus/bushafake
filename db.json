@@ -44,5 +44,19 @@
       "location": "Nationwide",
       "contact": "hello@oneandko.com"
     }
+  ],
+  "bills": [
+    {
+      "company": "Benin Electricity Distribution Company Postpaid",
+      "logo": "https://theeagleonline.com.ng/wp-content/uploads/2018/07/Benin-Electricity-Distribution-Company-BEDC-727x430.jpg"
+    },
+    {
+      "company": "Eko Electricity Distribution Company Plc Postpaid",
+      "logo": "https://cms.suregifts.com.ng/utilitypics/ekedc.png"
+    },
+    {
+      "company": "Enugu Electricity Distribution Company Postpaid",
+      "logo": "https://madeleine.design/images/eedc-logo.png"
+    }
   ]
 }
