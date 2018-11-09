@@ -63,22 +63,22 @@
     {
       "company": "MTN",
       "tag": "Everywhere you go",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/MTN_Logo.svg/1200px-MTN_Logo.svg.png"
+      "logo": "https://res.cloudinary.com/daga1o0uv/image/upload/v1541762754/mtnnn_1_.png"
     },
     {
       "company": "Airtel",
       "tag": "Smart Phone Network",
-      "logo": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2016/02/airtel.jpg?fit=800%2C451&ssl=1"
+      "logo": "https://res.cloudinary.com/daga1o0uv/image/upload/v1541762754/android-airtel.png"
     },
     {
       "company": "9mobile",
       "tag": "Here For You, Here For 9ja",
-      "logo": "https://d30io2yvq9v5mb.cloudfront.net/wp-content/uploads/2018/09/01002614/9Mobile.jpg"
+      "logo": "https://res.cloudinary.com/daga1o0uv/image/upload/v1541762754/9mobile.png"
     },
     {
       "company": "Globalcom",
       "tag": "Unlimited",
-      "logo": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2018/08/7974a3a7-glo-logo.jpg"
+      "logo": "https://res.cloudinary.com/daga1o0uv/image/upload/v1541762754/android-glo.png"
     }
   ]
 }
