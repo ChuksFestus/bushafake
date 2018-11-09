@@ -58,5 +58,22 @@
       "company": "Enugu Electricity Distribution Company Postpaid",
       "logo": "https://madeleine.design/images/eedc-logo.png"
     }
+  ],
+  "airtime": [
+    {
+      "company": "MTN",
+      "tag": "Everywhere you go",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/MTN_Logo.svg/1200px-MTN_Logo.svg.png"
+    },
+    {
+      "company": "Airtel",
+      "tag": "Smart Phone Network",
+      "logo": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2016/02/airtel.jpg?fit=800%2C451&ssl=1"
+    },
+    {
+      "company": "Globalcom",
+      "tag": "Unlimited",
+      "logo": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2018/08/7974a3a7-glo-logo.jpg"
+    }
   ]
 }
