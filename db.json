@@ -32,17 +32,6 @@
       "amountSpent": 300000,
       "numOfOrders": 4,
       "date": "30.09.18"
-    },
-    {
-      "companyName": "Facebook,
-      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/600px-Facebook_logo_%28square%29.png",
-      "businessUnit": "Design",
-      "verified": "No",
-      "activated": "no",
-      "walletBalance": 30000,
-      "amountSpent": 100000,
-      "numOfOrders": 2,
-      "date": "30.09.18"
     }
   ],
   "bills": [
